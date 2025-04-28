@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/bsmi021-mcp-mistral-codestral)
+
 [![MSEEP Badge](https://mseep.net/pr/cyberchitta-scrapling-fetch-mcp-badge.jpg)](https://mseep.ai/app/cyberchitta-scrapling-fetch-mcp)
 
 
