@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yonaka15-mcp-server-redmine-badge.png)](https://mseep.ai/app/yonaka15-mcp-server-redmine)
+
 [![MSEEP Badge](https://mseep.net/pr/cyberchitta-scrapling-fetch-mcp-badge.jpg)](https://mseep.ai/app/cyberchitta-scrapling-fetch-mcp)
 
 
